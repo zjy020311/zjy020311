@@ -1,6 +1,5 @@
-- 👋大家好，我是zjy,一名在校计算机专业的大学生
-- 👀 目前在学习Java
-- 啥也不会，全都在学......
+- 言寡尤 行寡悔
+
 <!---
 zjy020311/zjy020311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
